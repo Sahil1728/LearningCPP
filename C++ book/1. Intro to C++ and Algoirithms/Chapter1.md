@@ -1,0 +1,1 @@
+This folder contains code and concepts taught in the first chapter of the book
