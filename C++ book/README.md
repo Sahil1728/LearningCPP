@@ -1,0 +1,1 @@
+Was recommended the book Fundamentals of Data Structures in C++ by Horowitz and Sahni. I have been reading for a few days and it is a great book. So now I have created this folder to add the code which I will be writing while reading the book. I will be adding the code in C++.
