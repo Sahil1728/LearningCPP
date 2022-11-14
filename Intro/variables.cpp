@@ -20,6 +20,16 @@ int main(){
     cout<<"type of z is "<<typeid(z).name()<<endl;
     string s;cin>>s;
     cout<<"type of s is "<<typeid(s).name()<<endl;
-    bool b;cin>>b;
-    cout<<"type of b is "<<typeid(b).name()<<endl;
+    bool bl;cin>>bl;
+    cout<<"type of b is "<<typeid(bl).name()<<endl;
+
+
+    // Multiple variables declaration exapmles
+    // Declaring more than one variable of the same type
+    int a=1,b=2,c=3;
+    cout<<a+b+c<<endl;
+    // One Value to Multiple Variables
+    int d, e ,f;
+    d = e = f = 1;
+    cout<<d+e+f<<endl;
 }
