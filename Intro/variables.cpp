@@ -32,4 +32,11 @@ int main(){
     int d, e ,f;
     d = e = f = 1;
     cout<<d+e+f<<endl;
+    // Constant Variables
+    // const keyword is used to declare a constant variable i.e a variable whose value cannot be changed after it is initialized
+    const int g = 1;
+    // g = 2; // this will give error
+    // We should always declare the variable as constant when you have values that are unlikely to change, example:
+    const int minutesPerHour = 60;
+    const float PI = 3.14;
 }
